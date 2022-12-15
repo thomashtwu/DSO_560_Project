@@ -13,3 +13,7 @@ Three different jupyter notebook files was used for the project:
 1. **Sentiment Analysis:** Data preprocessing, visualization, and sentiment analysis code
 2. **Topic modeling (part 1):** Data preprocessing, visualization, and topic modeling code, not everything here went to the final presentation
 3. **Topic modeling (part 2):** Built on the "Topic modeling (part 1)" file with additional Non-Negative Matrix Factorization analysis
+
+Additional files:
+- NLP Project Presentation: Final PowerPoint presentation containing our analysis results
+- Disneyland topic modeling notes: Notes based on topic modeling results
